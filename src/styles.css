@@ -1,0 +1,29 @@
+#employee-info .employee-photo {
+  height: 100px;
+  float: left;
+  padding: 20px;
+}
+
+#employee-info .employee-notes {
+  padding-top: 20px;
+  text-align: justify;
+}
+
+.dark #employee-info .employee-notes {
+  color: rgb(181, 181, 181);
+}
+
+div.dx-switch-container {
+  width: 50px;
+  /* height: 120px; */
+}
+div.dx-switch-off {
+  font-size: 14px;
+  /* width: 220px; */
+  /* height: 120px; */
+}
+div.dx-switch-on {
+  font-size: 14px;
+  /* width: 220px; */
+  /* height: 120px; */
+}
