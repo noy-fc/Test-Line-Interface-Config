@@ -198,7 +198,7 @@ class App extends React.Component {
                   </DataGrid>
                 </div>
               </div>
-              <div className="row mt-4">
+              <div className="row mt-5 mb-3 ml-3">
                 <div className="col-3">
                   <SwitchCaption>จองคิวสำเร็จ</SwitchCaption>{" "}
                 </div>
@@ -234,7 +234,7 @@ class App extends React.Component {
                   />
                 </div>
               </div>
-              <div className="row">
+              <div className="row mb-3 ml-3">
                 <div className="col-3">
                   <SwitchCaption>เรียกคิว</SwitchCaption>{" "}
                 </div>
@@ -270,7 +270,7 @@ class App extends React.Component {
                   />
                 </div>
               </div>
-              <div className="row">
+              <div className="row mb-3 ml-3">
                 <div className="col-3">
                   <SwitchCaption>สิ้นสุดคิว</SwitchCaption>{" "}
                 </div>
@@ -306,7 +306,7 @@ class App extends React.Component {
                   />
                 </div>
               </div>
-              <div className="row">
+              <div className="row mb-3 ml-3">
                 <div className="col-3">
                   <SwitchCaption>ยกเลิกคิว Manual</SwitchCaption>{" "}
                 </div>
